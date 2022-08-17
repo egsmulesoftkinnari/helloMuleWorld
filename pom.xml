@@ -37,7 +37,7 @@
                         <username>kinnaridalvi01</username>
                         <password>Honey@135</password>
                         <environment>Sandbox</environment>
-                        <applicationName>helloMuleWorld</applicationName>
+                        <applicationName>helloMuleWorldCICD</applicationName>
                         <businessGroup>"Express Global Solutions"</businessGroup>
                         <workerType>Micro</workerType>
                         <workers>1</workers>

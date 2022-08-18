@@ -9,7 +9,7 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	</http:listener-config>
 	<flow name="bootamphelloworldFlow" doc:id="b1b22b0f-35fa-403a-90d0-9cf1814792eb" >
 		<http:listener doc:name="Listener" doc:id="aba928d9-6992-4b55-8d04-dc267e2d5143" config-ref="HTTP_Listener_config" path="/helloworld"/>
-		<logger level="INFO" doc:name="Logger" doc:id="9d74d8a4-d7e7-422e-8bdb-93c36d4f3e2e" message='Hello World Program Started'/>
+		<logger level="INFO" doc:name="Logger" doc:id="9d74d8a4-d7e7-422e-8bdb-93c36d4f3e2e" message='Hello World Program Started with Jenkins'/>
 		<set-payload value='#["Hello World Running Successfully with Jenkins"]' doc:name="Set Payload" doc:id="ab282c20-aaf6-471c-bba7-90cd7e2b639d" />
 	</flow>
 </mule>

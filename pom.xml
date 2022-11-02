@@ -34,8 +34,8 @@
 
                            <uri>https://anypoint.mulesoft.com</uri>
                            <muleVersion>4.4.0</muleVersion>
-                           <username>kinnaridalvi02</username>
-                           <password>Honey@13579</password>
+                           <username>egsmulesoftkinnari</username>
+                           <password>Avaya@135790</password>
                            <environment>Sandbox</environment>
                            <applicationName>helloMuleWorldCICDwJ</applicationName>
                            <businessGroup>EGS</businessGroup>
